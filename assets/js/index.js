@@ -151,7 +151,7 @@ function atenciones(arg) {
 }
 
 document.write(`<div class="container"><h1 class="py-3" >Centro Médico Ñuñoa</h1>
-<h4 class="pb-3">Estadistícas</h4>
+<h4 class="pb-3">Estadísticas</h4>
 <p>Cantidad de atenciones para Radiología: ${radiologia.length}</p>
 <p>Cantidad de atenciones para Traumatología: ${traumatologia.length}</p>
 <p>Cantidad de atenciones para Dental: ${dental.length}</p>
